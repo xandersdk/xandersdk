@@ -45,5 +45,5 @@
 
 ---
 
-Credit: <a href="https://github.com/YasinAlhadi"> Xander </a><br />
+Credit:  Xander </a><br />
 Last Edited on: 12/07/2024
